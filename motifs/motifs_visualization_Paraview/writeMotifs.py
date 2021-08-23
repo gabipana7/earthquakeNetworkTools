@@ -1,6 +1,6 @@
 import vtk
 
-def writeObjects(nodeCoords,
+def writeObjectsMotifs(nodeCoords,
                  motifCoords=[],
                  edges = [],
                  scalar = [], name = '', power = 1,
